@@ -1,6 +1,6 @@
 package rect
 
-import "shapes/shape"
+import "github.com/JitenPalaparthi/golang-training-shapes/shape"
 
 type Rect struct {
 	L, B float32
